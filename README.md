@@ -97,7 +97,7 @@ My focus is on shipping apps that actually go to production, not just tutorials 
 
 <p align="center">
   <a href="https://linkedin.com/in/muazam-adeel">LinkedIn</a> •
-  <a href="mailto:youremail@example.com">Email</a> •
+  <a href="mailto:moazamadeel04@gmail.com">Email</a> •
   <a href="https://github.com/muazamadeel">GitHub</a>
 </p>
 
